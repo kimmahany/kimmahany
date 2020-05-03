@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## kmahany.github.io
 
-You can use the [editor on GitHub](https://github.com/kimmahany/kmahany/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am taking CIT 281 this term
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Here are some of my projects:
 
-### Markdown
+#### [Project 1](https://github.com/UO-CIT/project-1-kimmahany):
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We learned the for each method, for of loops, basic shell commands to upload to the master branch, understanding Github, and markdown language in README.
 
-```markdown
-Syntax highlighted code block
+#### [Project 2](https://github.com/UO-CIT/project-2-kimmahany):
 
-# Header 1
-## Header 2
-### Header 3
+We learned about web API documentation, API's through JavaScript, JSON, public API's, and how to reverse arrays.
 
-- Bulleted
-- List
+#### [Project 3](https://github.com/UO-CIT/project-3-kimmahany):
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kimmahany/kmahany/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+We learned how to make our own GitHub page, furthered our API practice, how to use PostMan, and how to use jQuery to post AJAX requests.
